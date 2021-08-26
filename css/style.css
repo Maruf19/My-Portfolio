@@ -666,7 +666,7 @@ img{
     height: 6px;
     left: 7px;
     top: 7px;
-    width: 50%;
+    width: 98%;
     position: absolute;
     border-radius: 10px;
 }
@@ -687,7 +687,7 @@ img{
     height: 6px;
     left: 7px;
     top: 7px;
-    width: 60%;
+    width: 98%;
     position: absolute;
     border-radius: 10px;
 }
@@ -707,7 +707,7 @@ img{
     height: 6px;
     left: 7px;
     top: 7px;
-    width: 70%;
+    width: 98%;
     position: absolute;
     border-radius: 10px;
 }
@@ -749,7 +749,7 @@ img{
     height: 6px;
     left: 7px;
     top: 7px;
-    width: 90%;
+    width: 50%;
     position: absolute;
     border-radius: 10px;
 }
@@ -770,7 +770,7 @@ img{
     height: 6px;
     left: 7px;
     top: 7px;
-    width: 98%;
+    width: 50%;
     position: absolute;
     border-radius: 10px;
 }
